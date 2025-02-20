@@ -21,7 +21,7 @@
 
         -c'è un animale domestico
         -sono goloso
-        -soldi contati
+        -soldi contati se non compro cose inutili
 
     Obbiettivo:
         -Fare la spesa stando nel budget   
@@ -35,7 +35,6 @@
         - segno al fondo di ricordarmi di usare il coupon
         - apro il frigorifero
         - segno i prodotti che mancano 
-        - segno i prodotti che stanno per finire con un asterisco
         - chiudo il frigorifero
 
     Seconda fase: mi assicuro di non scordare lista e coupon e verifica budget
@@ -44,10 +43,68 @@
         - conto denaro presente
         - aggiungo il coupon
         - chiudo portafogli
-        -metto in tasca portafogli
+        - metto in tasca portafogli
+        - metto in tasca una matita
 
-    Terza fase: Spesa
-        - mi reco al supermercato     
+    Terza fase: Spesa-Recupero prodotti
+        - mi reco al supermercato 
+        - recupero un carrello
+        - tengo lista, matita e cellulare con calcolatrice a portata di mano
+            inizio recupero n-prodotti seguendo l'ordine in lista:
+                Mi reco verso il prodotto A
+                    - prendo prodotto A(crocchtette) dallo scaffale
+                    - ripongo nel carrello
+                    - depenno dalla lista
+                    - sottraggo il costo dal budget sulla calc del telefono
+                    - verifica budget rimanente
+                
+                Mi reco verso il prodotto B
+                    - prendo prodotto B dallo scaffale
+                    - ripongo nel carrello
+                    - depenno dalla lista
+                    - sottraggo il costo dal budget sulla calc del telefono
+                    - verifica budget rimanente
+                
+                Mi reco verso il prodotto C
+                    - prendo prodotto C dallo scaffale
+                    - ripongo nel carrello
+                    - depenno dalla lista
+                    - sottraggo il costo dal budget sulla calc del telefono
+                    - verifica budget rimanente
+                
+                Mi reco verso il prodotto D
+                    - prendo prodotto D dallo scaffale
+                    - ripongo nel carrello
+                    - depenno dalla lista
+                    - sottraggo il costo dal budget sulla calc del telefono
+                    - verifica budget rimanente
+
+                Mi reco verso il prodotto X... (ultimo della lista)
+                    - prendo prodotto X... dallo scaffale
+                    - ripongo nel carrello
+                    - depenno dalla lista
+                    - sottraggo il costo dal budget sulla calc del telefono
+                    - verifica budget rimanente:
+                        
+                        -SE resta budget
+                            -scegli uno snack
+
+                         ALTRIMENTI
+                            -vai in cassa diretto
+
+    Quarta fase: Spesa-Pagamento
+        -mi reco in cassa:
+            - carico spesa sul nastro
+            - consegno coupon 
+            - pago in contanti
+            - recupero spesa 
+
+    Quinta fase: Controllo
+        - giunto a casa verifico di non aver scordato nulla
+
+
+            
+
 
 
 
