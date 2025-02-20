@@ -1,6 +1,6 @@
 # Human Code
 
-## Esercitazione problem solving di due problemi
+## Esercitazione : problem solving 
 
     Elenco dei problemi da risolvere:
     
