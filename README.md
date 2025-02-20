@@ -27,7 +27,7 @@
         -Fare la spesa stando nel budget   
 
 
-## Soluzione
+### Soluzione
 
     Prima fase: redigere lista spesa
         - Prendo penna e block notes
@@ -103,7 +103,74 @@
         - giunto a casa verifico di non aver scordato nulla
 
 
+---
+
+
+
+## Problema B   
+    Analisi dei fatti:
+        - lavoro in ufficio 
+        - lavoro in ufficio disordinato
+            - pratica che non si trova
+
+        - c'è uno scanner che non fa fronte retro ma è collegato in rete locale
+
+        - scansiono solo la pratica che mi interessa
+        
+
+    Obbiettivo:
+        - Scansionare pratica fronte e retro
+
+### Soluzione   
+
+    Prima fase: preparazione pratica da scansionare
+        - recupero tutto il materiale esistente
+        - verifico la sua completezza
+        - verifico che ogni foglio non sia stropicciato e/o strappato
+            SE SI:
+                -eseguo fotocopia foglio rovinato
+        
+        - metto in ordine documentazione
+
+    Seconda fase: scansione
+        - apro menù scanner
+        - dichiaro che si tratta di un progetto con più fogli:
             
+            -apro lo scanner
+            -inserisco foglio X lato fronte sul vetro
+            -chiudo lo scanner
+            -premo tasto "inizia" ed al termine della scansione:
+                    - apro lo scanner
+                    - inserisco foglio X lato retro sul vetro
+                    - chiudo lo scanner
+                    - avvio scansione ed al termine:
+                        - apro lo scanner
+                        - recupero foglio X
+                        - ripongo foglio X nella sua cartellina
+                        - chiudo lo scanner
+
+            Ripeto l'operazione per tutti fogli
+
+            Dopo l'ultima scansione premo Salva ed invio alla rete locale
+
+    Terza fase: Controllo
+        - mi collego al computer
+        - apro rete locale
+        -apro file
+        - verifico integrità file:
+            SE NON integro:
+                -RIESEGUI FASE 2
+            ALTRIMENTI procedi
+        
+        - chiudo file 
+        - copio il file
+        - creo cartella dedicata
+        - incollo il file
+
+
+
+        
+
 
 
 
